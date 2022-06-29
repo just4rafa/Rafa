@@ -17,5 +17,5 @@ print(evens & squares)
 
 # pass an interable to the method
 even_squares = evens.intersection(squares_generator(100))
-print(even_squares)
+print(even_squares) 
 
